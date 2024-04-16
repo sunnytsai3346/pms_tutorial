@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/API/PMS.API/PMS.API/bin/Debug/net8.0
+/API/PMS.API/PMS.API/obj
+/API/PMS.API/PMS.API/PMS.API.csproj.user
+/API/PMS.API/.vs/PMS.API/FileContentIndex
