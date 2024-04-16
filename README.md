@@ -1,2 +1,5 @@
 # pms_tutorial
-tutorial of pms
+tutorial of API with .NET core / EF core 
+UI with angular frontend / Bootstrap
+
+
